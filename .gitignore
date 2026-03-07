@@ -8,6 +8,9 @@
 # Ignore logs and data folders
 log/
 data/
+pkls/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+
+*.pkl
